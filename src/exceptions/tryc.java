@@ -17,7 +17,12 @@ public class tryc {
 	}
 		public static void main(String[] args) throws Exception
 		{
+		
 			validate(24);
+			
+			
+			System.out.println("test pass");
 	}
+		
 
 }
